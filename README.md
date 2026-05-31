@@ -44,3 +44,9 @@ Como o projeto já possui o deploy ativo via GitHub Pages, basta seguir os passo
 ## 🧑‍💻 Desenvolvedor
 
 * **GitHub:** [@pernisa2](https://github.com/pernisa2)
+
+---
+
+<p align="center">
+* <img width="1677" height="624" alt="Gemini_Generated_Image_syrlsqsyrlsqsyrl" src="https://github.com/user-attachments/assets/d6af9bbd-ed2a-46ab-9c39-ea06be7ad81d" />
+</p>
