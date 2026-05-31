@@ -14,6 +14,13 @@
 
 O **Batalha dos Elementos** é um jogo interativo desenvolvido inteiramente com tecnologias web nativas (HTML5, CSS3 e JavaScript). O projeto foi criado com o objetivo de praticar conceitos de lógica de programação, manipulação de eventos no DOM (Document Object Model) e desenvolvimento de mecânicas de jogos 2D simples diretamente no navegador.
 
+## 📂 Código Fonte e Estrutura
+
+O código deste projeto é totalmente aberto para quem quiser analisar, aprender ou sugerir melhorias! Você pode explorar a estrutura dos arquivos diretamente aqui no repositório:
+*   `index.html`: Estruturação da interface e dos elementos visuais.
+*   `game.js`: Arquivo principal contendo toda a lógica do jogo, regras de batalha e manipulação do DOM.
+*   `assets/`: Pasta contendo os recursos visuais e demais mídias utilizadas.
+
 ## 🕹️ Como Jogar
 
 Como o projeto já possui o deploy ativo via GitHub Pages, basta seguir os passos abaixo:
